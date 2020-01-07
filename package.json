@@ -9,7 +9,7 @@
     "ios": "react-native run-ios"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "color": "1.0.3",
     "lodash": "4.17.10",
     "moment": "^2.22.2",
